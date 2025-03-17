@@ -1,11 +1,8 @@
 import './App.css';
-import GetAllStudents from "./Pages/GetAllStudents";
-import GetById from "./Pages/GetById";
 function App() {
   return (
     <>
-    <GetAllStudents/>
-    <GetById/>
+    <h1>heell nagaraju</h1>
     </>
   );
 }
